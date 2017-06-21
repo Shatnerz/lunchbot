@@ -1,0 +1,5 @@
+*.pyc
+config.ini
+random
+.cache
+*.egg-info/
